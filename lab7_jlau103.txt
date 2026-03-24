@@ -1,0 +1,11 @@
+OPS445 Lab Report - System Information for running ./CheckLab7.py
+=================================================================
+    User login name: jlau103
+    Linux system name: jlau103-virtual-machine
+    Python executable: /usr/bin/python3
+    Python version:  3.12.3 (main, Mar  3 2026, 12:15:18) [GCC 13.3.0]
+    VS Code version:  1.110.1 646
+    OS Platform: linux
+    Working Directory: /home/jlau103/ops445/lab7
+    Start at: Mon Mar 23 21:16:53 2026
+=================================================================
